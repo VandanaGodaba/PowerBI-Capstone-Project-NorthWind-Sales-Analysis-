@@ -16,6 +16,16 @@ The NorthWind Sales Analysis project focuses on examining sales data to uncover 
 - 📈 **Trend Identification:** Detect seasonal trends and sales patterns over time.
 - ⚙️ **Operational Efficiency:** Highlight areas for improvement in the sales process to enhance efficiency.
 
+## 📂 Project Structure
+
+The repository is organized as follows:
+
+- 📁 **Data/** - Contains the raw datasets used for analysis.
+- 📁 **SQL Queries/** - Includes SQL scripts for data extraction and transformation.
+- 📁 **Power BI Dashboard/** - The Power BI `.pbix` file with the final dashboard.
+- 📁 **Reports/** - Contains documentation, insights, and final presentations.
+- 📄 **README.md** - This file, providing an overview of the project.
+
 ## 🛠 Tools and Technologies Used
 
 - 📑 **Microsoft Excel:** Data cleaning, preliminary analysis, and visualization.
