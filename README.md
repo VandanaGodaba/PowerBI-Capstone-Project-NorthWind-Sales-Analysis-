@@ -31,6 +31,7 @@ The NorthWind Sales Analysis project focuses on examining sales data to uncover 
 - **Operational Bottlenecks:** Highlighted areas in the sales process causing delays, leading to process improvements and increased efficiency.
 
 ## Dataset Information
+[**View Dataset**](https://github.com/VandanaGodaba/PowerBI-Capstone-Project-NorthWind-Sales-Analysis-/tree/main/Data)
 
 The analysis utilizes the NorthWind dataset, a sample database provided by Microsoft, containing information on sales transactions, products, customers, employees, and suppliers. The dataset includes tables such as Orders, Order Details, Products, Customers, Employees, and Suppliers, offering a comprehensive view of the company's operations.
 
